@@ -1,4 +1,4 @@
-# calci
+# Flutter catalog
 
 A new Flutter project.
 
